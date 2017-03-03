@@ -1,0 +1,15 @@
+[package]
+name = "hello_rocket"
+version = "0.1.0"
+authors = ["metmirr <metin7087@gmail.com>"]
+
+[dependencies]
+rocket = "0.2.0"
+rocket_codegen = "0.2.0"
+serde = "0.9"
+serde_json = "0.9"
+serde_derive = "0.9"
+rusqlite = "0.9"
+
+[dependencies.rocket_contrib]
+features = ["handlebars_templates"]

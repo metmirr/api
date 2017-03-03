@@ -1,0 +1,13 @@
+hello there ...
+
+I am learning rust programming language.
+
+Its so clean and neat pr language.
+
+rust supports functional
+
+and iterators
+
+and pattern matching
+
+...
