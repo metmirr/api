@@ -1,5 +1,5 @@
 [package]
-name = "hello_rocket"
+name = "city_api"
 version = "0.1.0"
 authors = ["metmirr <metin7087@gmail.com>"]
 
